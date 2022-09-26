@@ -1,4 +1,4 @@
-# Stage 02
+# Stage 03
 
 # Projeto-04-Introdução a responsibidade
 
@@ -11,7 +11,6 @@
 
 Projeto construido no stage 03 do programa Explorer da rocketseat - Avaçando no HTML e CSS
 
-👉🏼[Clique aqui para accessar](https://projeto04-intro-responsibidade.netlify.app/)
 
 👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Projeto-04-Introdu-o-a-responsibidade-/)
 
